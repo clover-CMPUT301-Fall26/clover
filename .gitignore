@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-*.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
-=======
 # Gradle files
 .gradle/
 build/
@@ -24,6 +7,7 @@ local.properties
 
 # Log/OS Files
 *.log
+.DS_Store
 
 # Android Studio generated files and folders
 captures/
@@ -36,9 +20,6 @@ output-metadata.json
 # IntelliJ
 *.iml
 .idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
 
 # Keystore files
 *.jks
@@ -49,4 +30,3 @@ google-services.json
 
 # Android Profiling
 *.hprof
->>>>>>> 090a80779c5bfe774e19f78fedbbd425b8e980f5
