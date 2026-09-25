@@ -1,4 +1,4 @@
-# CMPUT 301 : Lab 3 Participation Exercise
+# CMPUT 301 : Lab 4 Participation Exercise
 
 ## Participants
 # Member 1:
@@ -16,6 +16,9 @@
 # Member 5:
 - **Full Name:** `Duop Gatkuoth`
 - **CCID:** `duop`
+# Member 6:
+- **Full Name:** `Sean Bendig`
+- **CCID:** `sbendig`
 
 ## References and Resources
 
